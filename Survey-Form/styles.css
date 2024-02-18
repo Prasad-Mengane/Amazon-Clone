@@ -1,0 +1,66 @@
+.section01
+{
+    text-align: center;
+    color:white;
+}
+.section1 
+{
+    color:white;
+    text-align: center;
+    font-style: italic;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 17px;
+}
+.form-container
+{
+    display:flex;
+    justify-content: left;
+    background-color: #FFFAF0;
+    width:700px;
+    margin:0 auto;
+    height:900px;
+}
+
+#survey-form
+{
+    padding-top:20px;
+    padding-left:50px;
+}
+
+body
+{
+    background-color: darkolivegreen;
+}
+
+input[type="text"], input[type="email"], input[type="number"]
+{
+    width:140%;
+    border-radius: 10px;
+    padding:10px;
+    margin:10px 0px 10px 0px;
+}
+
+#dropdown
+{
+    width:140%;
+    padding:10px;
+    border-radius: 10px;
+}
+
+
+#textbox
+{
+    width:140%;
+    height:13%;
+}
+
+#submit
+{
+    width:140%;
+    padding:10px;
+    font-size: 17px;
+    margin:30px 0 10px 0px;
+    background-color: darkolivegreen;
+    color:white;
+}
